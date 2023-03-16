@@ -1,0 +1,6 @@
+![image](https://github.com/karanvs1/Neural-Network-from-scratch/blob/main/assets/q2_1c.png)
+![image](https://github.com/karanvs1/Neural-Network-from-scratch/blob/main/assets/q2_1a_correct.png)
+![image](https://github.com/karanvs1/Neural-Network-from-scratch/blob/main/assets/q2_1a.png)
+![image](https://github.com/karanvs1/Neural-Network-from-scratch/blob/main/assets/q2a_1.png)
+![image](https://github.com/karanvs1/Neural-Network-from-scratch/blob/main/assets/q2a_2.png)
+![image](https://github.com/karanvs1/Neural-Network-from-scratch/blob/main/assets/q2a_3.png)
